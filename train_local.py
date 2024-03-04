@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 import os
 import csv
 import time
@@ -18,7 +17,6 @@ import torchvision
 from dataset import ImageNetDataset
 # from resnet import ResNet
 # from efficientnet import EfficientNet
-
 
 # Strict class 
 @dataclass
